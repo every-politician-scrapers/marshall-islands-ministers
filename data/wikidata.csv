@@ -1,1 +1,12 @@
-wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
+wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,start,psid
+Q101054208,Kitlang Kabua,Kitlang Kabua,female,1991-06-26,11,https://rmiparliament.org/cms/members.html,2021-12-10,Q110030141,Minister of Education,2020-01-13,Q101054208-E2EA1CD6-48F9-48BF-AEEC-3E60F9A9DF17
+Q109867463,Bruce Bilimon,Bruce Bilimon,male,,,https://rmiparliament.org/cms/members.html,2021-12-10,Q110030421,Minister of Health,2020-01-13,Q109867463-1573DDE7-2860-44B9-802C-D80AC4FF01F6
+Q110030514,Jemi Nashion,Jemi Nashion,male,,,https://rmiparliament.org/cms/members.html,2021-12-10,Q110030516,Minister of Internal Affairs,2020-01-13,Q110030514-98372BDF-7FC9-4684-B4B8-AC0D67D805EC
+Q110030533,Jiba B. Kabua,Jiba B. Kabua,male,,,https://rmiparliament.org/cms/members.html,2021-12-10,Q110030534,Minister of Public Works,2020-01-13,Q110030533-8F5FD5B0-ABAF-4567-B47A-98AB4A62F0ED
+Q110030889,Brenson Wase,Brenson Wase,male,,,,,Q110030505,Minister of Finance,2021-10-15,Q110030889-4D2B477C-A700-44F9-8680-7ABE54091DAE
+Q12911,Minister Christopher J. Loeak,Christopher Loeak,male,1952-11-11,11,https://rmiparliament.org/cms/members.html,2021-12-10,Q30688664,Minister in Assistance to the President,2020-01-13,Q12911-24DEE3BB-A9B8-4ED1-A9CD-9782568E34D1
+Q12914,Kessai H. Note,Kessai Note,male,1950-08-07,11,https://rmiparliament.org/cms/members.html,2021-12-10,Q110030050,Minister of Justice,2020-01-13,Q12914-2676E1B4-6B9A-412A-96B6-F6472E7F644B
+Q1637473,John Silk,John Silk,male,1956-09-15,11,,,Q110030475,Minister of Natural Resources and Commerce,2021-11-02,Q1637473-c5034851-4da2-aac4-4f89-979f00c068a5
+Q20658229,David Kabua,David Kabua,male,1951-01-01,9,https://rmiparliament.org/cms/members.html,2021-12-10,Q3736673,President of the Republic of the Marshall Islands,2020-01-13,Q20658229-6672d863-4db9-c031-83e8-67f0c8382a46
+Q21968142,Casten N. Nemra,Casten Nemra,male,1971-07-29,11,https://rmiparliament.org/cms/members.html,2021-12-10,Q110030167,Minister of Foreign Affairs,2020-01-13,Q21968142-ED839559-CA0A-484D-8041-1725D9132A71
+Q94977219,Donald F. Capelle,Donald Capelle,male,,,https://rmiparliament.org/cms/members.html,2021-12-10,Q110030265,Minister of Transportation & Communication,2020-01-13,Q94977219-7FD2D30A-99C0-49CB-8160-BCAEE229A0D8
