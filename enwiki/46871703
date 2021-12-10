@@ -1,0 +1,182 @@
+{
+  "title": "David Kabua",
+  "pageID": 46871703,
+  "categories": [
+    "1951 births",
+    "Living people",
+    "Children of national leaders",
+    "Government ministers of the Marshall Islands",
+    "Marshallese diplomats",
+    "Members of the Legislature of the Marshall Islands",
+    "Ministers in Assistance to the President of Marshall Islands",
+    "People from Majuro",
+    "Presidents of the Marshall Islands"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "David Kabua (born 1951) is a Marshallese politician who has served as President of the Marshall Islands since 13 January 2020.",
+              "links": [
+                {
+                  "text": "Marshallese",
+                  "type": "internal",
+                  "page": "Marshall Islands"
+                },
+                {
+                  "type": "internal",
+                  "page": "President of the Marshall Islands"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "David Kabua"
+                ]
+              }
+            },
+            {
+              "text": "He has represented Wotho Atoll in the Legislature of the Marshall Islands since 2008 and served terms as Minister of Health and Internal Affairs.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Wotho Atoll"
+                },
+                {
+                  "type": "internal",
+                  "page": "Legislature of the Marshall Islands"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Marshallese politician; President of the Marshall Islands (2020-present)",
+          "template": "short description"
+        },
+        {
+          "birth_year": "1951",
+          "template": "birth year and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "David Kabua"
+          },
+          "image": {
+            "text": "David Kabua (16-06-2021).jpg"
+          },
+          "office": {
+            "text": "9th President of the Marshall Islands",
+            "links": [
+              {
+                "type": "internal",
+                "page": "President of the Marshall Islands"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "13 January 2020"
+          },
+          "predecessor": {
+            "text": "Hilda Heine",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hilda Heine"
+              }
+            ]
+          },
+          "office1": {
+            "text": "10th Minister in Assistance to the President",
+            "links": [
+              {
+                "text": "Minister in Assistance to the President",
+                "type": "internal",
+                "page": "Minister in Assistance to the President of Marshall Islands"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "11 January 2016"
+          },
+          "term_end1": {
+            "text": "28 January 2016"
+          },
+          "president1": {
+            "text": "Casten Nemra",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Casten Nemra"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Wilbur Heine",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Wilbur Heine"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Mattlan Zackhras",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mattlan Zackhras"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "1951 (age 70)"
+          },
+          "birth_place": {
+            "text": "Majuro",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Majuro"
+              }
+            ]
+          },
+          "party": {
+            "text": "Independent",
+            "links": [
+              {
+                "text": "Independent",
+                "type": "internal",
+                "page": "Independent politician"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Ginger Kabua"
+          }
+        }
+      ],
+      "references": [
+        {
+          "last": "Johnson",
+          "first": "Giff",
+          "url": "https://www.rnz.co.nz/international/pacific-news/407600/marshalls-president-kabua-s-inauguration-set-for-monday",
+          "archive-url": "https://web.archive.org/web/20201018060514/https://www.rnz.co.nz/international/pacific-news/407600/marshalls-president-kabua-s-inauguration-set-for-monday",
+          "title": "Marshalls' President Kabua's inauguration set for Monday",
+          "publisher": "Radio New Zealand",
+          "date": "20 January 2020",
+          "archive-date": "18 October 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

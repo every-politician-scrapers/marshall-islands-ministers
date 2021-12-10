@@ -1,0 +1,98 @@
+{
+  "title": "Kenneth Kedi",
+  "pageID": 49875525,
+  "categories": [
+    "1971 births",
+    "Living people",
+    "Government ministers of the Marshall Islands",
+    "Members of the Legislature of the Marshall Islands",
+    "Speakers of the Legislature of the Marshall Islands",
+    "People from the Ralik Chain"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kenneth Kedi (born 1971) is a Marshallese politician.",
+              "links": [
+                {
+                  "text": "Marshallese",
+                  "type": "internal",
+                  "page": "Marshall Islands"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Kenneth Kedi"
+                ]
+              }
+            },
+            {
+              "text": "He has been Speaker of the Legislature of the Marshall Islands since 4 January 2016 and was re-elected in 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Legislature of the Marshall Islands"
+                }
+              ]
+            },
+            {
+              "text": "Kedi is a member of the Kien Eo Ad (KEA) party."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Marshallese politician",
+          "template": "short description"
+        },
+        {
+          "birth_year": "1971",
+          "template": "birth year and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Kenneth Kedi"
+          },
+          "image": {
+            "text": "Kenneth Kedi 20171031.jpg"
+          },
+          "office": {
+            "text": "Speaker of the Legislature of the Marshall Islands",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Legislature of the Marshall Islands"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "4 January 2016"
+          },
+          "predecessor": {
+            "text": "Donald Capelle",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Donald Capelle"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "1971 (age 50)"
+          },
+          "party": {
+            "text": "Kien Eo Ad (KEA)"
+          }
+        }
+      ]
+    }
+  ]
+}

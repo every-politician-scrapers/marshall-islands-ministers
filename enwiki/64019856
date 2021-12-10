@@ -1,0 +1,164 @@
+{
+  "title": "Donald Capelle",
+  "pageID": 64019856,
+  "categories": [
+    "Living people",
+    "Government ministers of the Marshall Islands",
+    "Members of the Legislature of the Marshall Islands",
+    "Speakers of the Legislature of the Marshall Islands",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Donald F. Capelle is a Marshallese politician.",
+              "links": [
+                {
+                  "text": "Marshallese",
+                  "type": "internal",
+                  "page": "Marshall Islands"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Donald F. Capelle"
+                ]
+              }
+            },
+            {
+              "text": "He was Speaker of the Legislature of the Marshall Islands from 2012 to 2016.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Legislature of the Marshall Islands"
+                }
+              ]
+            },
+            {
+              "text": "In January 2020 Capelle became Minister of Transportation, Communication and Information Technology in the cabinet of President David Kabua.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "David Kabua"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 29 November 2012, Capelle met with Taiwanese President Ma Ying-jeou.",
+              "links": [
+                {
+                  "text": "Taiwanese President",
+                  "type": "internal",
+                  "page": "President of the Republic of China"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ma Ying-jeou"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "infoboxes": [
+        {
+          "image": {
+            "text": "1011129馬英九總統接見馬紹爾群島共和國國會議長卡斐樂（Donald Capelle）伉儷暨參議員諾特（Kessai Note）伉儷.jpg"
+          },
+          "caption": {
+            "text": "Capelle (center) with Taiwanese President Ma in 2012"
+          },
+          "successor": {
+            "text": "Kenneth Kedi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kenneth Kedi"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Alvin Jacklick",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alvin Jacklick"
+              }
+            ]
+          },
+          "term_end": {
+            "text": "January 4, 2016"
+          },
+          "term_start": {
+            "text": "January 7, 2012"
+          },
+          "office": {
+            "text": "6th Speaker of the Legislature of the Marshall Islands",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Legislature of the Marshall Islands"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "2016 Marshall Islands Election",
+          "url": "https://reimanlok.org/pscchair2016.html",
+          "website": "reimanlok.org",
+          "access-date": "2020-05-21",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Republic of the Marshall Islands",
+          "url": "https://rmiparliament.org/cms/component/content/article.html?id=38:senator-kenneth-kedi,-the-seventh-speaker-of-the-nitijela",
+          "website": "rmiparliament.org",
+          "access-date": "2020-05-21",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Marshall Islands Nitijela (Parliament) Names New President",
+          "url": "https://www.doi.gov/oia/press/2012/Marshall-Islands-Nitijela",
+          "date": "2015-06-17",
+          "website": "www.doi.gov",
+          "language": "en",
+          "access-date": "2020-05-21",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://marshallislandsjournal.com/new-rmi-leaders-sworn-in/",
+          "archive-url": "https://web.archive.org/web/20200117183020/https://marshallislandsjournal.com/new-rmi-leaders-sworn-in/",
+          "title": "New RMI leaders sworn in",
+          "publisher": "The Marshall Islands Journal",
+          "date": "16 January 2020",
+          "archive-date": "17 January 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "President Ma meets Republic of the Marshall Islands Nitijela Speaker Donald Capelle and Senator Kessai Note",
+          "url": "https://english.president.gov.tw/NEWS/4047",
+          "website": "english.president.gov.tw",
+          "language": "en",
+          "access-date": "2020-05-21",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}
