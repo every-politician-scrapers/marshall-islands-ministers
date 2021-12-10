@@ -9,7 +9,7 @@ class MemberList
     def name
       Name.new(
         full:     entry.last,
-        prefixes: %w[His Excellency President Honorable]
+        prefixes: %w[His Excellency President Honorable Honorbale]
       ).short
     end
 
