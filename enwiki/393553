@@ -257,60 +257,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://marshallislandsjournal.com/ruben-made-his-mark-on-rmi/",
-          "title": "Ruben made his mark on RMI",
-          "date": "January 3, 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.pacificdigitallibrary.org/cgi-bin/pdl?e=d-000off-pdl--00-2--0--010---4---0-1l--10en-50---20-text---00-3-1-00bySR-0-0-000utfZz-8-00&a=d&cl=CL1.8&d=HASH01a1064060bc9b6f51af8478.5",
-          "title": "Nitijela of the Marshall Island: 3",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://rmiparliament.org/cms/members.html#8-minister-of-justice-honorbale-kessai-h-note",
-          "title": "Members",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://rmiparliament.org/cms/component/content/article.html?id=38:senator-kenneth-kedi,-the-seventh-speaker-of-the-nitijela",
-          "title": "Republic of the Marshall Islands",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://www.rnzi.com/pages/news.php?op=read&id=37332",
-          "title": "Litokwa Tomeing becomes new Marshalls president",
-          "date": "7 January 2008",
-          "work": "Radio New Zealand International",
-          "accessdate": "12 October 2011",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]
