@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "the Marshall Islands",
+      "id": "Q709"
+    },
+    "cabinet": {
+      "id": "Q110029769",
+      "start": "2020-01-13",
+      "parent": "Q110029771"
+    },
+    "source": {
+        "url":   "https://rmiparliament.org/cms/members.html",
+        "title": "Members",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/marshall-islands-ministers"
+}
